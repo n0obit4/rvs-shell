@@ -37,7 +37,7 @@ python3 rvs-shell.py --php -H 127.0.0.1 -p 4444
 
 ## Demostration
 
-[![Program demostration](https://raw.githubusercontent.com/n0obit4/rvs-shell/master/Demostration.png?token=AJY45AR3KK72CNNXEYNA36C7L7INM)
+[![Program demostration](https://raw.githubusercontent.com/n0obit4/rvs-shell/master/Demostration.png)
 
 This is the result. A netcat reverse shell, this command is placed on a Linux system to call the reverse shell.
 
