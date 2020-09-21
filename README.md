@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Release-v1.0-blue.svg">
   <img src="https://img.shields.io/badge/License-GPL3-brightgreen.svg">
-  <img src="https://img.shields.io/badge/Platform-Linux-yellow.svg">
+  <img src="https://img.shields.io/badge/Tested on-Linux & Windows-yellow.svg">
 </p>
 
 ## RVS-SHELL
