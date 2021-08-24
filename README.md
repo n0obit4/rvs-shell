@@ -1,4 +1,18 @@
-# RVS-SHELL
+<h1 align="center">
+  <br>
+  <a href="https://github.com/n0obit4/rvs-shell"><img src="https://raw.githubusercontent.com/n0obit4/rvs-shell/master/Logo.png" alt="RVS-SHELL Logo" border="0" width="180"></a>
+  <br>
+  RVS-SHELL
+  <br>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Release-v1.0-blue.svg">
+  <img src="https://img.shields.io/badge/License-GPL3-brightgreen.svg">
+  <img src="https://img.shields.io/badge/Tested on-Linux & Windows-yellow.svg">
+</p>
+
+## RVS-SHELL
 
 Reverse shell maker is a Reverse Shell Cheat Sheet customizable in a simpler and more intuitive way, this is used in a CTF challenges or whatever, i wrote this for EDUCATIONAL PURPOSE only. This automatize the process to create reverse shell in a compromised system, if you dont know or doesn't have a credentials of the machinne you can call to reverse shell.
 
@@ -37,7 +51,7 @@ python3 rvs-shell.py --php -H 127.0.0.1 -p 4444
 
 ## Demostration
 
-[![Program demostration](https://raw.githubusercontent.com/n0obit4/rvs-shell/master/Demostration.png)
+![Program demostration](https://raw.githubusercontent.com/n0obit4/rvs-shell/master/Demostration.png)
 
 This is the result. A netcat reverse shell, this command is placed on a Linux system to call the reverse shell.
 
